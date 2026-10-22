@@ -31,10 +31,10 @@
 
 #define WIFI_SSID    ""
 #define WIFI_PASS    ""
-#define API_KEY      "AIzaSyCzY0YGKS7ZtdRsSW77CiJC9zcJbMUB1uQ"
+#define API_KEY      ""
 #define DATABASE_URL "https://motor-monitor-d7663-default-rtdb.asia-southeast1.firebasedatabase.app"
 #define DEVICE_EMAIL "device@motor.test"
-#define DEVICE_PASS  "esiot@motor"
+#define DEVICE_PASS  ""
 
 // Telegram alerts (see setup guide). Leave TG_TOKEN empty to disable alerts.
 #define TG_TOKEN       ""
