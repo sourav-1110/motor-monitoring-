@@ -29,8 +29,8 @@
 // ---------------------------------------------------------------------
 #define SIMULATE 0     // 0 = real sensors (hardware build), 1 = fake sensors
 
-#define WIFI_SSID    "POCO M4 Pro"
-#define WIFI_PASS    "1234567890"
+#define WIFI_SSID    ""
+#define WIFI_PASS    ""
 #define API_KEY      "AIzaSyCzY0YGKS7ZtdRsSW77CiJC9zcJbMUB1uQ"
 #define DATABASE_URL "https://motor-monitor-d7663-default-rtdb.asia-southeast1.firebasedatabase.app"
 #define DEVICE_EMAIL "device@motor.test"
